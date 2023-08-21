@@ -23,7 +23,7 @@ I'm Ma. Enirose Hellum and i am currently studying Front-end development at Noro
 - :woman_technologist: Ma Enirose Hellum 
 
 - 🔭 I’m currently studying React
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working for my final project exam
 - 👯 I’m looking to collaborate on projects or work...
 - 💬 Ask me about anything... and i'll try to answer it if i can :)
 - 📫 How to reach me: :computer: enirosehellum@gmail.com or send me a message or :telephone_receiver: +4792060867...
