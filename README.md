@@ -15,7 +15,7 @@
 Hello!!! 
 I'm Ma. Enirose Hellum a junior frontend developer from Noroff.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-enirose-hellum-1b47bb1b5?original_referer=https%3A%2F%2Fenirosehellum.netlify.app%2F)
 
 [View my Portfolio here](https://enirosehellum.netlify.app/)
 
