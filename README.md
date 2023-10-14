@@ -19,6 +19,8 @@ I'm Ma. Enirose Hellum a junior frontend developer from Noroff.
 
 [View my Portfolio here](https://enirosehellum.netlify.app/)
 
+📫 How to reach me: :computer: enirosehellum@gmail.com or send me a message or :telephone_receiver: +4792060867...
+
 
 ### More about me...
 <div id="badges" align="left">
@@ -50,5 +52,5 @@ I'm Ma. Enirose Hellum a junior frontend developer from Noroff.
 - [House of Bidders](https://storied-fairy-4f9600.netlify.app/)
 - [Science Museum](https://compassionate-joliot-e61ccb.netlify.app/)
 
-- 📫 How to reach me: :computer: enirosehellum@gmail.com or send me a message or :telephone_receiver: +4792060867...
+
 
